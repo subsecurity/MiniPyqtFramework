@@ -24,3 +24,6 @@
 - win7/win10
 
 ## 根据用户电脑环境选择打包环境
+
+## 参考资源
+[官方Qt for Python文档](https://doc.qt.io/qtforpython/)
